@@ -38,7 +38,7 @@ Every Block should be wrapped in this code
 
 In the HTML view you should only see one `<table>` tag. If there are multiple `<table>` elements remove them! 
 
-### Examples
+### Examples 
 Code you might find in HTML view
 ```html
 <table style="width:100%; margin:0; padding:0;">
@@ -55,6 +55,7 @@ Code you might find in HTML view
 
 ```
 Change the code so that it looks like this
+
 ```html
 <table style="padding:0; margin:0; width:100%;">
   <tr>
@@ -83,7 +84,7 @@ Paragraph blocks should have a `padding-bottom: 12px` set in the block settings 
 * If you prefer doing blocks with multiple paragraphs within them you will have to use `in-line` styles. 
 * You will also have to manually remove these styles on the last `<p>` element of the block.
   
-##### Examples
+##### Inline Examples
 ```html
 <p style="margin: 0; padding-bottom:12px; font-size:20px; font-weight:bold;">Dear %%First Name%%,</p>
 <p style="margin: 0; padding-bottom:12px;">We wanted to remind you of the on-campus VA ...</p>
