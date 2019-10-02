@@ -85,6 +85,8 @@ Paragraph blocks should have a `padding-bottom: 12px` set in the block settings 
 * You will also have to manually remove these styles on the last `<p>` element of the block.
   
 ##### Inline Examples
+In the code/text view you will add `padding-bottom: 12px;` within the `style=" "` double quotes. 
+
 ```html
 <p style="margin: 0; padding-bottom:12px; font-size:20px; font-weight:bold;">Dear %%First Name%%,</p>
 <p style="margin: 0; padding-bottom:12px;">We wanted to remind you of the on-campus VA ...</p>
