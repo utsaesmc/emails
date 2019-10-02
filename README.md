@@ -91,4 +91,9 @@ Paragraph blocks should have a `padding-bottom: 12px` set in the block settings 
 ```
 
 
+## List Blocks
+
+#### Block Settings
+List blocks or `ul` elements should have a `padding-bottom: 12px` set in the block settings section, Exept when it is the last element.
+
 
