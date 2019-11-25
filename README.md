@@ -9,7 +9,7 @@ __UTSA Orange__ : `#F15A22`
 
 ## `Global` Block Settings 
 
-There are two global settings that shoud be on all content blocks.
+There are two global settings that shoud be on all content blocks, except for full width images.
 
 * Margins should be set for `40px` on the left and right.
 * Padding should be `0px` all around.
